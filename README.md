@@ -1,2 +1,3 @@
 # notebooklm-direito-economico-tributario
-Aplicação de Inteligência Artificial no Direito utilizando NotebookLM para organização e análise de conteúdos jurídicos.
+![Área](https://img.shields.io/badge/Área-Direito%20e%20Tecnologia-purple)
+![Foco](https://img.shields.io/badge/Foco-Produtividade%20e%20Estudos-orange)
