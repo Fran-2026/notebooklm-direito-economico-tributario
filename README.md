@@ -25,9 +25,9 @@ Uso do NotebookLM para:
 - Art. 150 CF
 
 ## Resultados
-✔ Melhor organização dos conteúdos
-✔ Mais clareza nos estudos
-✔ Ganho de produtividade
+ Melhor organização dos conteúdos
+ Mais clareza nos estudos
+ Ganho de produtividade
 
 ##  Conclusão
 A tecnologia facilita o aprendizado e melhora a organização do conhecimento jurídico.
